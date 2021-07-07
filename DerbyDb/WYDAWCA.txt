@@ -1,0 +1,8 @@
+1,Helion Wydawnictwo
+2,Editions 2000
+3,PLJ Akademicka Oficyna
+4,Wydawnictwo Naukowo-Techniczne
+5,Państwowe Wydawnictwo Naukowe
+6,Politechnika Szczecińska
+7,Politechnika  Śląska
+8,Mikom

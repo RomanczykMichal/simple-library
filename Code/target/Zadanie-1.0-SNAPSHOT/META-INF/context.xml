@@ -1,0 +1,11 @@
+<Context docBase="D:\Uczelnia\4 sem\TPO\Cw\7\Dzialaj\zad1\target">
+
+    <Resource name="jdbc/ksidb" auth="Container"
+              type="javax.sql.DataSource"
+              description="Baza danych ksiazek"
+              driverClassName="org.apache.derby.jdbc.ClientDriver"
+              url="jdbc:derby://localhost/ksidb"
+              username="APP"
+              password="APP"
+              maxActive="20" />
+</Context>

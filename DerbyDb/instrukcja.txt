@@ -1,0 +1,15 @@
+SPRAWDZENIE CZY BAZA DANYCH JEST WYPELNIONA:
+1. D:
+2. cd "D:\Programowanie\Derby\Derby_10.14.2.0\bin"
+3. ij
+4.  connect 'jdbc:derby:D:\Uczelnia\4 sem\TPO\Cw\7\test\TPO7_RM_S20422\database\Dbs\ksidb';
+5.  select * from pozycje;
+6. disconnect;
+7. exit
+
+
+ODPALENIE BAZY DANYCH:
+
+1.cd "Uczelnia\4 sem\TPO\Cw\7\Dzialaj\Derby"
+2a. ./derby.bat ij createdb.sql
+2. start derby start
